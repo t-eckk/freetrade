@@ -1,0 +1,2 @@
+# freetrade
+Freetrade Portfolio Tracker
